@@ -4,12 +4,14 @@ public class app {
         
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("ko");
+        
         System.out.println("num:");
         int num1 = sc.nextInt();
-
-        System.out.println(num1);
-
+        System.out.println("Digite seu nome:");
+        String nome = sc.next();
+        System.out.println("Seu nome é >" + nome);
+        System.out.println("Seu numero é >" + num1);
+        
         sc.close();
     }
 }
