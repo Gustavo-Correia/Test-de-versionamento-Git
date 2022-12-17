@@ -18,7 +18,7 @@ public class app {
         
         int letras = extensao.Calcletras();
 
-        System.out.println("O seu nome tem: " + letras + "letras ao total");
+        System.out.println("O seu nome tem: " + letras + " letras ao total");
 
         sc.close();
     }

@@ -1,0 +1,17 @@
+[33mcommit bf80bfaa45ff323989fa9a5154ee1e1e427046f1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Gustavo Correia <gucorreia2901@gmail.com>
+Date:   Sat Dec 17 03:52:53 2022 -0300
+
+    Criado Função para contar quantas letras o nome do usuario tem e criada subpastas
+
+[33mcommit 47371328d3803e9f5fc3d348041d4059a444db13[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Gustavo Correia <gucorreia2901@gmail.com>
+Date:   Sat Dec 17 02:13:39 2022 -0300
+
+    Acrescentado a pergunta do nome do usuario apenas para testar o Git
+
+[33mcommit f282e268458a794fbb036a6f5ebec04fd14879b9[m
+Author: Gustavo Correia <gucorreia2901@gmail.com>
+Date:   Sat Dec 17 01:59:10 2022 -0300
+
+    Testando o adicionamento de commits pelo bash e apredendo a usar o git
