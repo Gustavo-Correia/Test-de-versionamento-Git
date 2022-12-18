@@ -21,7 +21,7 @@ public class app {
         System.out.println("Digite seu nome:");
         String totalletras = sc.next();
         System.out.println("Seu nome é > " + totalletras);
-        
+        System.out.println("Fim Do Programa");
         
         int letras = extensao.Calcletras(totalletras);
 
